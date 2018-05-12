@@ -1,0 +1,29 @@
+{
+  "name": "nodejs_express_myssql",
+  "version": "1.0.0",
+  "description": "basic nodejs application to connect to my sql and return the result using express.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shrikantpatel/nodejs_express_myssql.git"
+  },
+  "keywords": [
+    "nodejs",
+    "express",
+    "mysql"
+  ],
+  "author": "shrikant patel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shrikantpatel/nodejs_express_myssql/issues"
+  },
+  "homepage": "https://github.com/shrikantpatel/nodejs_express_myssql#readme",
+  "dependencies": {
+    "express": "^4.16.3",
+    "mysql": "^2.15.0",
+    "path": "^0.12.7"
+  }
+}
