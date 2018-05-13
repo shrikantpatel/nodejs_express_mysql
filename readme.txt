@@ -11,4 +11,4 @@ npm install body-parser --save
 npm install ejs --save
 
 // torun
-node index.js
+node bin\www

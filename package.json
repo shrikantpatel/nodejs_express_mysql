@@ -2,9 +2,9 @@
   "name": "nodejs_express_myssql",
   "version": "1.0.0",
   "description": "basic nodejs application to connect to my sql and return the result using express.",
-  "main": "index.js",
+  "main": "bin/www",
   "scripts": {
-    "test": "node index.js"
+    "test": "node bin/www"
   },
   "repository": {
     "type": "git",
