@@ -8,5 +8,5 @@ var server = app.listen(app.get('port'), function () {
     var host = server.address().address;
     var port = server.address().port;
 
-    console.de('app listerning at http://%s:%s', host, port);
+    console.log('app listerning at http://%s:%s', host, port);
 });

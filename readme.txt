@@ -7,6 +7,8 @@ npm init
 npm install mysql --save
 npm install express --save
 npm install path --save
+npm install body-parser --save
+npm install ejs --save
 
 // torun
 node index.js
